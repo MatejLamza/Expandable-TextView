@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="ExpandableTextView">
+        <attr name="readLabel" format="string" />
+        <attr name="numberOfLinesBeforeTruncate" format="integer" />
+        <attr name="numberOfLinesShowing" format="integer" />
+        <attr name="isExpanded" format="boolean" />
+        <attr name="highlightedColor" format="color" />
+    </declare-styleable>
+
+</resources>
