@@ -41,7 +41,7 @@ afterEvaluate {
             release(MavenPublication){
                 from components.release
 
-                groupId = 'com.github.matejlamza'
+                groupId = 'com.github.MatejLamza'
                 artifactId = 'expandable-text-view'
                 version = '1.0'
             }
